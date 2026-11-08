@@ -1,0 +1,5 @@
+[developer]
+name = "Wealth"
+role = "Full-Stack Developer"
+active = true
+languages = ["Java", "JavaScript", "Python", "C++"]
